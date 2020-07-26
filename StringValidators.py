@@ -1,0 +1,1 @@
+print (str("ab123".isalnum()))
